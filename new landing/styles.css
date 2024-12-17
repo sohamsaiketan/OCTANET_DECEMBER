@@ -1,4 +1,4 @@
-/* Global Reset */
+
 * {
     margin: 0;
     padding: 0;
@@ -17,7 +17,7 @@
     color: inherit;
   }
   
-  /* Navbar */
+
   header {
     background: #111;
     color: #fff;
@@ -49,7 +49,7 @@
   
 
   
-  /* Hero Section */
+
   .hero {
     background: url('https://img.freepik.com/premium-photo/front-view-generic-brandless-moder-car_110488-502.jpg?w=1060') no-repeat center center/cover;
     color: #fff;
@@ -87,7 +87,7 @@
     color: #111;
   }
   
-  /* Features Section */
+  
   .features {
     padding: 4rem 2rem;
     text-align: center;
@@ -127,7 +127,7 @@
     color: #2714ad;
   }
   
-  /* About Section */
+  
   .about {
     padding: 4rem 2rem;
     text-align: center;
@@ -139,7 +139,7 @@
     margin: 0 auto;
   }
   
-  /* Contact Section */
+  
   .contact {
     padding: 4rem 2rem;
     text-align: center;
@@ -165,7 +165,7 @@
     color: #111;
   }
   
-  /* Footer */
+  
   footer {
     background: #111;
     color: #fff;
